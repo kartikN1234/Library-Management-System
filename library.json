@@ -1,0 +1,61 @@
+{
+    "books": [
+        {
+            "id": "B-9LLNP",
+            "title": "Wings of fire",
+            "author": "APJ Abdul Kalam",
+            "total_copies": 30,
+            "available_copies": 29,
+            "added_on": "17/09/2026, 18:03:48"
+        },
+        {
+            "id": "B-R4NPN",
+            "title": "Game of Thrones",
+            "author": "Kartik",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "17/09/2026, 18:23:06"
+        },
+        {
+            "id": "B-D1DTT",
+            "title": "Atomic Habit",
+            "author": "Anna",
+            "total_copies": 15,
+            "available_copies": 13,
+            "added_on": "17/09/2026, 22:53:07"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-CAU20",
+            "name": "kartik",
+            "Mobile_number": 9356852613,
+            "email": "nalawadekartik87@gmail.com",
+            "borrowed_book": [
+                {
+                    "book_id": "B-9LLNP",
+                    "title": "Wings of fire",
+                    "borrow_on": "17/09/2026, 21:36:28"
+                }
+            ]
+        },
+        {
+            "id": "M-T3RKQ",
+            "name": "Aditya",
+            "Mobile_number": "8625957181",
+            "email": "adityapatil1705@gmail.com",
+            "borrowed_book": [
+                {
+                    "book_id": "B-D1DTT",
+                    "title": "Atomic Habit",
+                    "borrow_on": "17/09/2026, 22:54:05"
+                },
+                {
+                    "book_id": "B-D1DTT",
+                    "title": "Atomic Habit",
+                    "borrow_on": "17/09/2026, 22:54:32"
+                }
+            ]
+        }
+    ]
+}
