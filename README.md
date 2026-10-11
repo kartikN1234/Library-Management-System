@@ -78,8 +78,7 @@ python -m pip install streamlit
 
 ## Run the Application
 
-### Option A: Streamlit web application
-
+### **Option A: Streamlit web application**
 From the project directory, run:
 
 ```bash
