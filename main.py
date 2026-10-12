@@ -3,7 +3,7 @@ import random
 import string
 from pathlib import Path
 from datetime import datetime
-#These are libraries
+#These are libraries.
 
 class Library:
     database="library.json"
